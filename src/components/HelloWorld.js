@@ -9,3 +9,4 @@ const HelloWorld = () => {
 export default HelloWorld;
 
 // ok, lets start from here
+<p> цікаво чи працюватиме </p>
